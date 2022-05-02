@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexGarySmith
+- 👀 I’m interested in machine learning and efficient data cleaning.
+- 🌱 I’m currently learning more about SQL and custom BI tools.
+- 💞️ I’m looking to collaborate on the future of good data for good purposes.
+- 📫 How to reach me: @alexgarysmith on Twitter.
